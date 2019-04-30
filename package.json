@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "publisher": "fiazluthfi",
     "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hifiaz/vscode-darkred.git"
+    },
     "engines": {
         "vscode": "^1.33.0"
     },
