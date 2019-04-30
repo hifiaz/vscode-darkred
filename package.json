@@ -1,0 +1,23 @@
+{
+    "name": "darkred",
+    "displayName": "Dark Red",
+    "description": "soft color like workshop",
+    "version": "0.0.1",
+    "publisher": "fiazluthfi",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bengkel-color-theme.json"
+            }
+        ]
+    }
+}
