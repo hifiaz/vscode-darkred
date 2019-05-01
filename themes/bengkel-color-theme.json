@@ -3,48 +3,55 @@
 	"type": "dark",
 	"colors": {
 		// Base
-		"titleBar.activeBackground": "#882233",
+		"titleBar.activeBackground": "#521262",
 		"titleBar.activeForeground": "#ffddbb",
 		"titleBar.inactiveBackground": "#110022",
 		"titleBar.inactiveForeground": "#cccccc",
-
-		"button.background": "#cc2233",
+		// badge
+		"badge.background": "#ffc600",
+		"badge.foreground": "#000",
+		//button
+		"button.background": "#003364",
 		"button.foreground": "#ffddbb",
-		"button.hoverBackground": "#882233",
-
-		"statusBar.background": "#882233",
+		"button.hoverBackground": "#002446",
+		// status bar
+		"statusBar.background": "#002446",
 		"statusBar.foreground": "#ffddbb",
-
-		"activityBar.background": "#110022",
-		"activityBar.foreground": "#c43434",
-
-		"editor.background": "#110022",
+		// activity
+		"activityBar.background": "#001122",
+		"activityBar.foreground": "#004455",
+		// editor
+		"editor.background": "#001122",
 		"editor.foreground": "#ffddbb",
-
+		// sidebar
 		"sideBarTitle.foreground": "#ffddbb",
-		"sideBar.background": "#110022",
+		"sideBar.background": "#001122",
 		"sideBar.foreground": "#ffddbb",
-		"sideBar.border": "#882233",
-		"sideBarSectionHeader.background": "#442233",
-
-		"list.hoverBackground": "#882233",
-		"list.focusBackground": "#442233",
+		"sideBar.border": "#393e46",
+		"sideBarSectionHeader.background": "#002446",
+		"sideBarSectionHeader.foreground": "#ffddbb",
+		// list
+		"list.hoverBackground": "#002446",
+		"list.focusBackground": "#004455",
 		// dropdown
-		"dropdown.background": "#663333",
+		"dropdown.background": "#004455",
 		"dropdown.foreground": "#ffddbb",
-		"settings.dropdownBackground": "#ff0000",
+		"settings.dropdownBackground": "#001122",
 		// input
-		"input.background": "#110022",
-		"input.border": "#882233",
+		"input.background": "#001122",
+		"input.border": "#521262",
 		"input.foreground": "#ffddbb",
-		"input.placeholderForeground": "#cc2233",
-		"inputOption.activeBorder": "#bb7755",
-
-		"tab.activeBackground": "#442233",
+		"input.placeholderForeground": "#eeeeee",
+		"inputOption.activeBorder": "#521262",
+		// tab
+		"tab.activeBackground": "#002446",
 		"tab.activeForeground": "#ffddbb",
 		"tab.inactiveBackground": "#112233",
-		
+		// editor header
 		"editorGroupHeader.tabsBackground": "#110022",
+		// notification
+		"notificationCenterHeader.background": "#004455",
+		"notifications.background": "#001122"
 
 		
 	},
