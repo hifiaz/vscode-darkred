@@ -1,6 +1,6 @@
 {
-    "name": "darknature",
-    "displayName": "Dark Nature",
+    "name": "darkred",
+    "displayName": "Dark Red",
     "description": "soft color like workshop",
     "version": "0.0.1",
     "publisher": "fiazluthfi",
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "dark nature",
+                "label": "dark red",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bengkel-color-theme.json"
             }
