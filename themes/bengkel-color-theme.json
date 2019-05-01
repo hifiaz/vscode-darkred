@@ -3,8 +3,8 @@
 	"type": "dark",
 	"colors": {
 		// Base
-		"titleBar.activeBackground": "#521262",
-		"titleBar.activeForeground": "#ffddbb",
+		"titleBar.activeBackground": "#002446",
+		"titleBar.activeForeground": "#f9f7f7",
 		"titleBar.inactiveBackground": "#110022",
 		"titleBar.inactiveForeground": "#cccccc",
 		// badge
@@ -12,40 +12,41 @@
 		"badge.foreground": "#000",
 		//button
 		"button.background": "#003364",
-		"button.foreground": "#ffddbb",
+		"button.foreground": "#f9f7f7",
 		"button.hoverBackground": "#002446",
 		// status bar
 		"statusBar.background": "#002446",
-		"statusBar.foreground": "#ffddbb",
+		"statusBar.foreground": "#f9f7f7",
+		"statusBar.noFolderBackground": "#2b2e4a",
 		// activity
 		"activityBar.background": "#001122",
 		"activityBar.foreground": "#004455",
 		// editor
 		"editor.background": "#001122",
-		"editor.foreground": "#ffddbb",
+		"editor.foreground": "#f9f7f7",
 		// sidebar
-		"sideBarTitle.foreground": "#ffddbb",
+		"sideBarTitle.foreground": "#f9f7f7",
 		"sideBar.background": "#001122",
-		"sideBar.foreground": "#ffddbb",
+		"sideBar.foreground": "#f9f7f7",
 		"sideBar.border": "#393e46",
 		"sideBarSectionHeader.background": "#002446",
-		"sideBarSectionHeader.foreground": "#ffddbb",
+		"sideBarSectionHeader.foreground": "#f9f7f7",
 		// list
 		"list.hoverBackground": "#002446",
 		"list.focusBackground": "#004455",
 		// dropdown
 		"dropdown.background": "#004455",
-		"dropdown.foreground": "#ffddbb",
+		"dropdown.foreground": "#f9f7f7",
 		"settings.dropdownBackground": "#001122",
 		// input
 		"input.background": "#001122",
 		"input.border": "#521262",
-		"input.foreground": "#ffddbb",
+		"input.foreground": "#f9f7f7",
 		"input.placeholderForeground": "#eeeeee",
 		"inputOption.activeBorder": "#521262",
 		// tab
 		"tab.activeBackground": "#002446",
-		"tab.activeForeground": "#ffddbb",
+		"tab.activeForeground": "#f9f7f7",
 		"tab.inactiveBackground": "#112233",
 		// editor header
 		"editorGroupHeader.tabsBackground": "#110022",
@@ -183,7 +184,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#e23e57"
 			}
 		},
 		{
@@ -198,7 +199,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#F5A3CC"
+				"foreground": "#dbe2ef"
 			}
 		},
 		{
@@ -214,7 +215,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff9a00"
 			}
 		},
 		{
